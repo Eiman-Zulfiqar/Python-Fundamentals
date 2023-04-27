@@ -28,8 +28,6 @@ if not(y==x):
 
 numbers = [1,2,4,5]
 
-#if x in numbers:
- #   print(x in numbers)
 
 if x not in numbers:
     print(x not in numbers)
