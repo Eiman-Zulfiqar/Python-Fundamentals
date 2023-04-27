@@ -1,5 +1,5 @@
 x = 3
-y = 5
+y = 9
 
 if x>y:
     print(f'{x} is greater than {y}')
